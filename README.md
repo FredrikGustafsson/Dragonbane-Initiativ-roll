@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Dragonbane Initiativ roll
+
+This is a initiativ roller for dragonbane
+Hope you like it
+If you have any feedback send a mail to postfg@gmail.com
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
